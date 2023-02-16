@@ -1,0 +1,17 @@
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\bin\Debug\net6.0-windows\Parvaprograma.exe
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\bin\Debug\net6.0-windows\Parvaprograma.deps.json
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\bin\Debug\net6.0-windows\Parvaprograma.runtimeconfig.json
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\bin\Debug\net6.0-windows\Parvaprograma.dll
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\bin\Debug\net6.0-windows\Parvaprograma.pdb
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.Form1.resources
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.AssemblyInfo.cs
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.dll
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\refint\Parvaprograma.dll
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.pdb
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\Parvaprograma.genruntimeconfig.cache
+C:\Users\STUDENTS-1211-6\Desktop\P3c\Parvaprograma\obj\Debug\net6.0-windows\ref\Parvaprograma.dll
